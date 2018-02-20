@@ -2,7 +2,7 @@
 
 Projects included:
 * Ahentafel generator
-	* Determines linage from base 10, base 2, or relational string
+	* Determines linage from base 10 integer, base 2 integer, or relational string
 	* Usage: `make` then `./ahentafel`
 	* also has command line parameter input
 * Multi threaded racing simulator (pthread)
