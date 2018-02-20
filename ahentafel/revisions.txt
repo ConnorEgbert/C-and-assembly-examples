@@ -1,0 +1,17 @@
+commit 2d47f36315431c3182056734d4443bda152c541b
+Author: Connor Egbert <cje5361@rit.edu>
+Date:   Fri Sep 30 23:22:41 2016 -0400
+
+    organization update
+
+commit 9209d4050deb7cd764af433ee6d35264e70b71e2
+Author: Connor Egbert <cje5361@rit.edu>
+Date:   Thu Sep 8 22:46:01 2016 -0400
+
+    final
+
+commit 90251d00be9a3666180f1a86526583713dfa7889
+Author: Connor Egbert <cje5361@rit.edu>
+Date:   Thu Sep 8 21:26:37 2016 -0400
+
+    init
