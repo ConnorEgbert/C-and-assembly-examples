@@ -14,3 +14,15 @@ Projects included:
 * String encoding program
 	* Program to demonstrate understanding of bit manipulation
 	* Usage: `make` then `./file-bitsets <string1> <string2>`
+
+Assembly code is compiled with RASM and linked using RLINK. If you would like to use a different assembler/linker, change the assembler and linker variables in the Makefiles to your own preference.
+
+* Sum
+    * Adds numbers using assembly code
+* Add ASCII
+    * Adds numbers from user input
+* Fraction Simplification
+    * Simplifies fractions to use mixed notation.
+    * Assumes that the fraction can be simplified using only integers.
+* Polymorphic function calls
+    * Demonstrates polymorphic function calls using virtual function tables with a set size.
