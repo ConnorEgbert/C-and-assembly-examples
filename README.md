@@ -1,4 +1,4 @@
-# WireGuard-Application-Code
+# C and assemblp examples
 
 Projects included:
 * Ahentafel generator
@@ -15,7 +15,7 @@ Projects included:
 	* Program to demonstrate understanding of bit manipulation
 	* Usage: `make` then `./file-bitsets <string1> <string2>`
 
-Assembly code is compiled with RASM and linked using RLINK. If you would like to use a different assembler/linker, change the assembler and linker variables in the Makefiles to your own preference.
+Assembly code is compiled with RASM and linked using RLINK. If you would like to use a different assembler/linker, change the assembler and linker variables in the Makefiles to your own preference. Compatibility issues may arise when using a different set of build tools.
 
 * Sum
     * Adds numbers using assembly code
