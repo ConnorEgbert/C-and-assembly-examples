@@ -1,4 +1,4 @@
-# C and assemblp examples
+# C and assembly examples
 
 Projects included:
 * Ahentafel generator
